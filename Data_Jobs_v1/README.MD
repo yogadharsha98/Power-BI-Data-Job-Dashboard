@@ -24,12 +24,12 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
   Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
 
 - **🎨 Dashboard Design:**  
-  Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to effectively tell the data story.
+  Designed an intuitive and visually appealing layout, using both common and uncommon chart types to effectively communicate insights.
 
 - **📄 Interactive Reporting:**
-  - **Slicers:** Dynamically filter the report by job title
-  - **Buttons & Bookmarks:** Create a seamless navigation experience
-  - **Drill-Through:** Navigate from a high-level summary to a contextual, detailed view
+  - **Slicers:** Dynamically filter the report by job title.
+  - **Buttons & Bookmarks:** Create a seamless navigation experience.
+  - **Drill-Through:** Navigate from a high-level summary to a contextual, detailed view.
 
 ## Dashboard Overview
 
@@ -37,13 +37,20 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ![Dashboard Page 1](/images/project1_page1.JPG)
 
-This serves as mission control for exploring the data job market. It highlights key KPIs such as total job count, median salaries, and top job titles to provide a quick understanding of what is happening in the market at a glance.
+This page serves as mission control for exploring the data job market. It highlights key KPIs such as total job count, median salaries, and top job titles to provide a quick understanding of what is happening in the market at a glance.
 
 ### Page 2: Job Title Drill-Through
 
 ![Dashboard Page 2](/images/project1_page2.JPG)
 
 This is the deep-dive page. From the main dashboard, users can drill through to this view for detailed insights into a specific job title, including salary ranges, work-from-home statistics, top hiring platforms, and a global map of job locations.
+
+## 🔍 Key Insights
+
+- Data Analyst and Data Scientist roles dominate the job market.
+- Median salaries vary significantly depending on job title and location.
+- Certain skills consistently appear across multiple high-demand roles.
+- Remote work availability differs across job categories.
 
 ## Conclusion
 

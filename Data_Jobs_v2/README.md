@@ -4,23 +4,21 @@
 
 ## Introduction
 
-Navigating the data job market can feel like a maze, with information scattered everywhere. This dashboard (v2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter. Using a real-world dataset of 2024 data science job postings, rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
-
-## Skills Showcased
+Navigating the data job market can feel like a maze, with information scattered everywhere. This dashboard (v2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter. Using a real-world dataset of 2024 data science job postings, rich with details on titles, salaries, and locations—this project provides a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ## 🔧 Key Power BI Skills & Features
 
 - **🧩 Dashboard Design**  
-  Crafting an intuitive, user-friendly, and visually consistent report layout.
+  Crafted an intuitive, user-friendly, single-page layout optimized for quick insights.
 
 - **🔄 Power Query (ETL)**  
-  Performing data cleaning, transformation, and shaping for analysis-ready datasets.
+  Performed advanced data cleaning, transformation, and shaping.
 
 - **🔗 Data Modeling**  
-  Building efficient data models using relationships and _Star Schema_ principles.
+  Built efficient data models using _Star Schema_ principles.
 
 - **📊 DAX Fundamentals**  
-  Creating calculations and aggregations to derive meaningful insights.
+  Created calculations and aggregations to derive meaningful insights.
 
 ---
 
@@ -30,38 +28,45 @@ Navigating the data job market can feel like a maze, with information scattered 
   Column, Bar, Line, and Area charts for comparisons and trend analysis.
 
 - **🌍 Map Charts**  
-  Displaying geospatial data for location-based insights.
+  Displayed geospatial data for location-based insights.
 
 - **🎯 KPI Cards**  
-  Highlighting key performance indicators clearly.
+  Highlighted key performance indicators clearly.
 
 - **📄 Tables**  
-  Presenting detailed and structured data.
+  Presented structured and detailed data.
 
 - **🎨 Chart Variety**  
-  Using a mix of standard and advanced visuals for effective storytelling.
+  Used a mix of standard and advanced visuals for effective storytelling.
 
 ---
 
 ### 🎛️ Interactive Features
 
 - **🎛️ Slicers**  
-  Enabling dynamic, user-driven filtering.
+  Enabled dynamic, user-driven filtering.
 
 - **🧭 Buttons & Bookmarks**  
-  Improving navigation and managing different report views.
+  Improved navigation and managed report views.
 
 - **🔍 Drill-Through**  
-  Allowing deeper exploration of specific data points.
+  Allowed deeper exploration of specific data points.
 
 ## Dashboard Overview
 
-This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
+This iteration consolidates the dashboard into a **single, focused page**, designed to provide the most critical insights efficiently.
 
 ![Dashboard Page 1](/images/project2_page1.JPG)
 
-This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
+The dashboard highlights KPIs such as **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. It also showcases **skill popularity** (by job percentage or count) and enables comparison of salaries across different job titles.
+
+## 🔍 Key Insights
+
+- A few key roles dominate overall job demand in the data field.
+- Salary distribution varies significantly across job titles.
+- Skill demand patterns highlight which tools are most valuable in the market.
+- Consolidating data into a single-page view improves usability and decision-making speed.
 
 ## Conclusion
 
-This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
+This updated dashboard (Version 2.0) demonstrates how Power BI can transform large datasets into a streamlined, high-impact analytical tool. It empowers **Job Seekers, Job Transitioners, and Job Swappers** to explore key insights efficiently and make more informed career decisions.
